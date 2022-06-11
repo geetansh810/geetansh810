@@ -65,20 +65,19 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <!-- languajes and skills section -->
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
-<p align="center" style="background: rgba(110,118,129,0.4);border-radius: 13px;">
+<p align="center" style="background: rgba(110,118,129,0.4); border-radius: 13px; display: flex;justify-content: space-evenly;">
   <a href="https://www.java.com/en/"><img alt="JAVA" title="JAVA" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="42"></a>
-  <a href="https://www.geeksforgeeks.org/data-structures/?ref=shm"><img alt="Data Structures" title="Data Structures" src="https://cdn-icons-png.flaticon.com/512/1208/1208913.png" height="42"></a>
+  <a href="https://www.geeksforgeeks.org/data-structures/?ref=shm"><img alt="Data Structures" title="Data Structures" src="https://cdn-icons-png.flaticon.com/512/6911/6911893.png" height="42"></a>
   <a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="42"></a>
   <a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="42"></a>
   <a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn-icons-png.flaticon.com/512/148/148825.png" height="42"></a>
-  <a href="https://expressjs.com/"><img alt="ExpressJS" title="ExpressJS" src="https://cdn-icons-png.flaticon.com/512/70/70047.png" height="42"></a>
+  <a href="https://expressjs.com/"><img alt="ExpressJS" title="ExpressJS" src="https://symbols-electrical.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.svg" height="42"></a>
   <a href="https://angular.io/"><img alt="Angular" title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="42"></a>
   <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="42"></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="42"></a>
   <a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="42"></a>
   <a href="https://www.javascript.com/"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="42"></a>
-  <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1654948790~hmac=4bfe60533de9435320a6452e7078c938" height="42"></a>
-  <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1654948790~hmac=4bfe60533de9435320a6452e7078c938" height="42"></a>
+  <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons.flaticon.com/png/512/536/premium/536452.png?token=exp=1654949883~hmac=6bfcb98fcec46469aba9daf138a01360" height="42"></a>
 </p>
 <br>
 
@@ -106,10 +105,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <a href="https://github.com/geetansh810/social-media-app"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=social-media-app&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
-<!--   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
-  </p> -->
 </p>
 
 <p align="center">&#8192;</p>
