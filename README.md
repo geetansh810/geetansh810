@@ -66,10 +66,18 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
-  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="JAVA" title="JAVA" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="42"></a></code>
+  <code><a href="https://www.geeksforgeeks.org/data-structures/?ref=shm"><img alt="Data Structures" title="Data Structures" src="https://cdn-icons-png.flaticon.com/512/1208/1208913.png" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="42"></a></code>
+  <code><a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="42"></a></code>
+  <code><a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn-icons-png.flaticon.com/512/148/148825.png" height="42"></a></code>
+  <code><a href="https://expressjs.com/"><img alt="ExpressJS" title="ExpressJS" src="https://cdn-icons-png.flaticon.com/512/70/70047.png" height="42"></a></code>
+  <code><a href="https://angular.io/"><img alt="Angular" title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="42"></a></code>
+  <code><a href="https://www.javascript.com/"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
 </p>
 <br>
 
@@ -108,15 +116,15 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<!--   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/geetansh810/booksStore-frontend"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=booksStore-frontend&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/geetansh810/social-media-app"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=social-media-app&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
-  <p style="widht: 100%;" align="center">
+<!--   <p style="widht: 100%;" align="center">
     <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a> -->
-  </p>
+    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+  </p> -->
 </p>
 
 <p align="center">&#8192;</p>
