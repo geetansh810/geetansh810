@@ -73,27 +73,13 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <code><a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn-icons-png.flaticon.com/512/148/148825.png" height="42"></a></code>
   <code><a href="https://expressjs.com/"><img alt="ExpressJS" title="ExpressJS" src="https://cdn-icons-png.flaticon.com/512/70/70047.png" height="42"></a></code>
   <code><a href="https://angular.io/"><img alt="Angular" title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="42"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="42"></a></code>
   <code><a href="https://www.javascript.com/"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="42"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
-</p>
-<br>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1654948790~hmac=4bfe60533de9435320a6452e7078c938" height="42"></a></code>
 
-<h1 align="center"> Languages/Frameworks I'm learning: </h1>
-<p align="center">
-  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
-  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
-</p>
-<br>
-
-<h1 align="center"> Environments I work with: </h1>
-<p align="center">
-  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+  <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1654948790~hmac=4bfe60533de9435320a6452e7078c938" height="42"></a>
 </p>
 <br>
 
