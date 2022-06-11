@@ -66,9 +66,9 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
-  <code><a href="https://www.java.com/en/"><img alt="JAVA" title="JAVA" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="42"></a></code>
+  <a href="https://www.java.com/en/"><img alt="JAVA" title="JAVA" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="42"></a>
   <code><a href="https://www.geeksforgeeks.org/data-structures/?ref=shm"><img alt="Data Structures" title="Data Structures" src="https://cdn-icons-png.flaticon.com/512/1208/1208913.png" height="42"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="42"></a></code>
+  <code style="background-color:"white""><a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="42"></a></code>
   <code><a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="42"></a></code>
   <code><a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn-icons-png.flaticon.com/512/148/148825.png" height="42"></a></code>
   <code><a href="https://expressjs.com/"><img alt="ExpressJS" title="ExpressJS" src="https://cdn-icons-png.flaticon.com/512/70/70047.png" height="42"></a></code>
