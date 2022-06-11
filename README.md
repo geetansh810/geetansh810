@@ -65,20 +65,19 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <!-- languajes and skills section -->
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
-<p align="center">
+<p align="center" style="background: rgba(110,118,129,0.4);border-radius: 13px;">
   <a href="https://www.java.com/en/"><img alt="JAVA" title="JAVA" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="42"></a>
-  <code><a href="https://www.geeksforgeeks.org/data-structures/?ref=shm"><img alt="Data Structures" title="Data Structures" src="https://cdn-icons-png.flaticon.com/512/1208/1208913.png" height="42"></a></code>
-  <code style="background-color:#FFFFFF"><a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="42"></a></code>
-  <code><a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="42"></a></code>
-  <code><a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn-icons-png.flaticon.com/512/148/148825.png" height="42"></a></code>
-  <code><a href="https://expressjs.com/"><img alt="ExpressJS" title="ExpressJS" src="https://cdn-icons-png.flaticon.com/512/70/70047.png" height="42"></a></code>
-  <code><a href="https://angular.io/"><img alt="Angular" title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="42"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="42"></a></code>
-  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="42"></a></code>
-  <code><a href="https://www.javascript.com/"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="42"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1654948790~hmac=4bfe60533de9435320a6452e7078c938" height="42"></a></code>
-
+  <a href="https://www.geeksforgeeks.org/data-structures/?ref=shm"><img alt="Data Structures" title="Data Structures" src="https://cdn-icons-png.flaticon.com/512/1208/1208913.png" height="42"></a>
+  <a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="42"></a>
+  <a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="42"></a>
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn-icons-png.flaticon.com/512/148/148825.png" height="42"></a>
+  <a href="https://expressjs.com/"><img alt="ExpressJS" title="ExpressJS" src="https://cdn-icons-png.flaticon.com/512/70/70047.png" height="42"></a>
+  <a href="https://angular.io/"><img alt="Angular" title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="42"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="42"></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="42"></a>
+  <a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="42"></a>
+  <a href="https://www.javascript.com/"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="42"></a>
+  <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1654948790~hmac=4bfe60533de9435320a6452e7078c938" height="42"></a>
   <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1654948790~hmac=4bfe60533de9435320a6452e7078c938" height="42"></a>
 </p>
 <br>
