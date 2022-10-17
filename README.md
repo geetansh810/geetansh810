@@ -70,7 +70,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <a href="https://www.geeksforgeeks.org/data-structures/?ref=shm"><img alt="Data Structures" title="Data Structures" src="https://cdn-icons-png.flaticon.com/512/6911/6911893.png" height="42"></a>
   <a href="https://angular.io/"><img alt="Angular" title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="42"></a>
   <a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="42"></a>
-  <a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn-icons-png.flaticon.com/512/148/148825.png" height="42"></a>
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" height="42"></a>
   <a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="42"></a>
   <a href="https://reactnative.dev/"><img alt="React Native" title="React Native" src="https://www.seekpng.com/png/detail/826-8263666_react-native-logo.png" height="42"></a>
   <a href="https://redux.js.org/"><img alt="Redux" title="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="42"></a>
