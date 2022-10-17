@@ -103,7 +103,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <p align="center">
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/geetansh810/booksStore-frontend"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=booksStore-frontend&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/geetansh810/social-media-app"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=social-media-app&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/geetansh810/hackit-frontend"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=hackit-frontend&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
 </p>
