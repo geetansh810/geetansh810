@@ -52,7 +52,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           💬 Ask me about anything tech related, I am happy to help;
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn]([https://www.linkedin.com/in/DavidsDvm/](https://www.linkedin.com/in/geetansh-agrawal-1b8a27190/))
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/geetansh-agrawal-1b8a27190/))
         </li>
         <li>
            When I am free, I like to watch Tech Youtube videos;
