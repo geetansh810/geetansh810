@@ -7,16 +7,16 @@
 
 
 <!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
   <p align="center">
-    <a href="https://geetansh810.github.io/geetansh.agrawal/">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?&style=for-the-badge&logo=linkedin&logoColor=black">
-    </a>
 
   <a href="https://www.linkedin.com/in/geetansh-agrawal-1b8a27190/">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
-    <a href="mailto:geetanshagrawal810@gmail.com">
+    <a href="https://geetansh810.github.io/geetansh.agrawal/">
+      <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
+    </a>
+
+  <a href="mailto:geetanshagrawal810@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
@@ -123,11 +123,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ## Activity Graph
 <p align="center">
-  <img src="https://github-profile-stadistics.herokuapp.com/graph?username=geetansh810&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://starchart.cc/geetansh810/hackit-frontend.svg" width="50%"/>
 </p>
 
 <br>
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Friday, June 10, 2022</b>
+Last refresh: <b>Saturday, 3 June, 2023</b>
