@@ -10,7 +10,7 @@
 <h1 align="center"> Social Media: </h1>
   <p align="center">
     <a href="https://geetansh810.github.io/geetansh.agrawal/">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
 
   <a href="https://www.linkedin.com/in/geetansh-agrawal-1b8a27190/">
