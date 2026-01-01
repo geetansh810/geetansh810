@@ -41,7 +41,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **University Institute of Technology, RGPV Bhopal, Madhya Pradesh**
+          🔭 I’m currently working as a Full-time Software Engineer
         </li>
         <li>
           🤝 I’m looking to collaborate on Open Source Projects
@@ -104,13 +104,13 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 ## 📘 My top open source projects
 
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+<!-- <p align="center">
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/geetansh810/booksStore-frontend"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=booksStore-frontend&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/geetansh810/hackit-frontend"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=hackit-frontend&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
-</p>
+</p> -->
 
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
