@@ -88,20 +88,20 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- GitHub stats section -->
 
-## 📊 Github stats
+<!--## 📊 Github stats -->
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+<!-- <p align="center">
   <br/>
   <a href="https://github.com/geetansh810/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=geetansh810&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/geetansh810/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetansh810&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+</p> -->
 
 <!-- Projects section -->
 
-## 📘 My top open source projects
+<!-- ## 📘 My top open source projects -->
 
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- <p align="center">
@@ -112,22 +112,22 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <p align="center">&#8192;</p>
 </p> -->
 
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
+<!-- <p align="center">&#8192;</p>
+<p align="center">&#8192;</p> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/geetansh810?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+</p> -->
 
 <!-- last activity section -->
 
-## Activity Graph
-<p align="center">
+<!-- ## Activity Graph -->
+<!-- <p align="center">
   <img src="https://starchart.cc/geetansh810/hackit-frontend.svg" width="50%"/>
 </p>
 
-<br>
+<br> -->
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Saturday, 3 June, 2023</b>
+Last refresh: <b>Friday, 1 Jan, 2026</b>
