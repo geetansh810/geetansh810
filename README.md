@@ -9,7 +9,7 @@
 <!-- Social icons section -->
   <p align="center">
 
-  <a href="https://www.linkedin.com/in/geetansh-agrawal-1b8a27190/">
+  <a href="https://www.linkedin.com/in/geetansh810/">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
     <a href="https://geetansh810.github.io/geetansh.agrawal/">
@@ -56,7 +56,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           💬 Ask me about anything tech related, I am happy to help;
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/geetansh-agrawal-1b8a27190/))
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/geetansh810/))
         </li>
         <li>
            When I am free, I like to watch Tech Youtube videos;
