@@ -1,133 +1,161 @@
+<div align="center">
 
-# Hi there, I'm Geetansh Agrawal <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<!-- Animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Geetansh%20Agrawal&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Spring+Boot+%7C+Kafka+%7C+Microservices;Angular+19+%7C+React+%7C+TypeScript;AWS+%7C+Docker+%7C+System+Design;Building+things+that+scale+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## I'm a Full-Stack Developer
+<br/>
 
-
-<!-- Social icons section -->
-  <p align="center">
-
+<!-- Social badges -->
+<p>
   <a href="https://www.linkedin.com/in/geetansh810/">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
-    </a>
-    <a href="https://geetansh810.github.io/geetansh.agrawal/">
-      <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
-    </a>
-
+    <img src="https://img.shields.io/badge/LinkedIn-geetansh810-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
+  </a>
+  &nbsp;
+  <a href="https://geetansh810.github.io/geetansh.agrawal/">
+    <img src="https://img.shields.io/badge/Portfolio-geetansh.dev-a78bfa?style=for-the-badge&logo=safari&logoColor=white&labelColor=0f0c29"/>
+  </a>
+  &nbsp;
   <a href="mailto:geetanshagrawal810@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
-    </a>
-  </p>
-</h1>
-
-<hr>
-
-<!-- Description about me -->
-<h2 align="center"> 🤔 About me 👨‍💻 </h2>
-
-Heeeyyyy!!! <br />
-I am <b>Geetansh Agrawal</b>🕵🏼‍♂️ <br />
-I am from <strong>India</strong><br />
-I'm a guy who love develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
-<br/><br/> 
-
-### 🧐 More About Me:
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <ul>
-        <li>
-          🔭 I’m currently working as a Full-time Software Engineer
-        </li>
-        <li>
-          🤝 I’m looking to collaborate on Open Source Projects
-        </li>
-        <li>
-          🌱 I’m currently learning MongoDB & Express; 
-        </li>
-        <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/geetansh810?tab=repositories)
-        </li>
-        <li>
-          💬 Ask me about anything tech related, I am happy to help;
-        </li>
-        <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/geetansh810/))
-        </li>
-        <li>
-           When I am free, I like to watch Tech Youtube videos;
-        </li>
-    </td>
-  </tr>
-</table>
-<br><br><br>
-
-<!-- languajes and skills section -->
-
-<h1 align="center"> Languages/Frameworks I'm good at: </h1>
-<p align="center" style="background: rgba(110,118,129,0.4); border-radius: 13px; display: flex;justify-content: space-evenly;">
-  <a href="https://www.java.com/en/"><img alt="JAVA" title="JAVA" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="42"></a>
-  <a href="https://www.geeksforgeeks.org/data-structures/?ref=shm"><img alt="Data Structures" title="Data Structures" src="https://cdn-icons-png.flaticon.com/512/6911/6911893.png" height="42"></a>
-  <a href="https://angular.io/"><img alt="Angular" title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="42"></a>
-  <a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="42"></a>
-  <a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" height="42"></a>
-  <a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="42"></a>
-  <a href="https://reactnative.dev/"><img alt="React Native" title="React Native" src="https://www.seekpng.com/png/detail/826-8263666_react-native-logo.png" height="42"></a>
-  <a href="https://redux.js.org/"><img alt="Redux" title="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="42"></a>
-  <a href="https://expressjs.com/"><img alt="ExpressJS" title="ExpressJS" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" height="42"></a>
-  <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="42"></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="42"></a>
-  <a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="42"></a>
-  <a href="https://www.javascript.com/"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="42"></a>
-</p>
-<br>
-
-<!-- GitHub stats section -->
-
-<!--## 📊 Github stats -->
-
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-<!-- <p align="center">
-  <br/>
-  <a href="https://github.com/geetansh810/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=geetansh810&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/geetansh810/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetansh810&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p> -->
-
-<!-- Projects section -->
-
-<!-- ## 📘 My top open source projects -->
-
-<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- <p align="center">
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/geetansh810/booksStore-frontend"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=booksStore-frontend&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/geetansh810/hackit-frontend"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=geetansh810&repo=hackit-frontend&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-  </p>
-  <p align="center">&#8192;</p>
-</p> -->
-
-<!-- <p align="center">&#8192;</p>
-<p align="center">&#8192;</p> -->
-
-<!-- <p align="left">
-  <a href="https://github.com/geetansh810?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p> -->
-
-<!-- last activity section -->
-
-<!-- ## Activity Graph -->
-<!-- <p align="center">
-  <img src="https://starchart.cc/geetansh810/hackit-frontend.svg" width="50%"/>
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/geetansh810">
+    <img src="https://img.shields.io/badge/GitHub-geetansh810-c4b5fd?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
+  </a>
 </p>
 
-<br> -->
+<img src="https://komarev.com/ghpvc/?username=geetansh810&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" />
 
-<!-- last refresh of readme section -->
+</div>
 
-Last refresh: <b>Friday, 1 Jan, 2026</b>
+---
+
+## `whoami`
+
+```kotlin
+data class Developer(
+    val name: String        = "Geetansh Agrawal",
+    val location: String    = "Bengaluru, India 🇮🇳",
+    val role: String        = "Full-Stack Software Engineer",
+    val experience: String  = "3+ Years",
+    val currentFocus: List<String> = listOf(
+        "Microservices Architecture",
+        "Event-Driven Systems with Kafka",
+        "Angular 19 & React Frontends",
+        "Cloud Infrastructure on AWS"
+    ),
+    val openTo: String      = "Collaborations, Open Source & Interesting Problems"
+)
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🔧 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0f0c29?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geetansh810&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e0d7ff&border_color=2d1b69&border_radius=12&hide_border=false" height="180px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetansh810&langs_count=8&layout=compact&theme=midnight-purple&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e0d7ff&border_color=2d1b69&border_radius=12" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geetansh810&theme=midnight-purple&background=0d0d1a&ring=7c3aed&fire=e879f9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=7c69a0&border=2d1b69&border_radius=12" height="180px"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geetansh810&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=6&margin-h=6" width="100%"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geetansh810&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=e879f9&area=true&area_color=2d1b69&hide_border=false&border_color=2d1b69&radius=12" width="100%"/>
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+```
+🔭  Working as a Full-Stack Software Engineer
+🌱  Deepening expertise in Kafka, AWS & System Design
+🔬  Exploring AI tooling, vibe coding & developer productivity
+🎤  Active in the Bengaluru tech community — meetups, AI events
+🤝  Open to open-source collaborations & freelance projects
+📬  Reach me at: geetanshagrawal810@gmail.com
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+_"Code is like humor. When you have to explain it, it's bad." — Cory House_
+
+<br/>
+
+<a href="https://www.linkedin.com/in/geetansh810/">
+  <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://geetansh810.github.io/geetansh.agrawal/">
+  <img src="https://img.shields.io/badge/-Visit_My_Portfolio-7c3aed?style=for-the-badge&logo=safari&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:geetanshagrawal810@gmail.com">
+  <img src="https://img.shields.io/badge/-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
