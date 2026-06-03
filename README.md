@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-geetansh810-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
   </a>
   &nbsp;
-  <a href="https://geetansh810.github.io/geetansh.agrawal/">
+  <a href="https://geetansh810.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-geetansh.dev-a78bfa?style=for-the-badge&logo=safari&logoColor=white&labelColor=0f0c29"/>
   </a>
   &nbsp;
