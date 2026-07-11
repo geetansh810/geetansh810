@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
-<style>
-@font-face {
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="620px" font-size="16px">
+  <style>@font-face {
 src: local('Consolas'), local('Consolas Bold');
 font-family: 'ConsolasFallback';
 font-display: swap;
@@ -13,79 +12,111 @@ size-adjust: 109%;
 .addColor {fill: #1a7f37;}
 .delColor {fill: #cf222e;}
 .cc {fill: #c2cfde;}
-text, tspan {white-space: pre;}
-</style>
+text, tspan {white-space: pre;}</style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="-40" y="30" fill="#24292f">
-<tspan x="-40" y="30">                                                </tspan>
-<tspan x="-40" y="50">                  .+::+--=:                     </tspan>
-<tspan x="-40" y="70">                 -=:  ...:.::::                 </tspan>
-<tspan x="-40" y="90">                *: :+++==---++:-:               </tspan>
-<tspan x="-40" y="110">              .+.:=:.        -=--+.             </tspan>
-<tspan x="-40" y="130">              -+--             *::*             </tspan>
-<tspan x="-40" y="150">              .++ ..::   .-::. .+.*.            </tspan>
-<tspan x="-40" y="170">               =*::-=-=::+-=:.:-++-             </tspan>
-<tspan x="-40" y="190">               :#.::=.=  =.-:.:-==              </tspan>
-<tspan x="-40" y="210">               ==:.....  .:.... -=-             </tspan>
-<tspan x="-40" y="230">              .+=   .:=-==:.    =.=             </tspan>
-<tspan x="-40" y="250">               -+. :=+====+==  :=-.             </tspan>
-<tspan x="-40" y="270">                .+-.  :==.   .=+                </tspan>
-<tspan x="-40" y="290">                  *++: .. .-+=*.                </tspan>
-<tspan x="-40" y="310">                 =+ .-=====:  ==.               </tspan>
-<tspan x="-40" y="330">            .:::=.:-          = =.:..           </tspan>
-<tspan x="-40" y="350">        .:::.  .=.:=-        -: :- .::::.       </tspan>
-<tspan x="-40" y="370">               :-..:=+:    .=--::=.    .:.      </tspan>
-<tspan x="-40" y="390">                     .-- .-::.                  </tspan>
-<tspan x="-40" y="410">                       .=-                      </tspan>
-<tspan x="-40" y="430">                       .=                       </tspan>
-<tspan x="-40" y="450">                       -:.                      </tspan>
-<tspan x="-40" y="470">                       .                        </tspan>
+<text x="30" y="30" fill="#24292f">
+<tspan x="30" y="30.0">                              </tspan>
+<tspan x="30" y="35.64">                              </tspan>
+<tspan x="30" y="41.28">             .                </tspan>
+<tspan x="30" y="46.92">          .  :.               </tspan>
+<tspan x="30" y="52.56">          .-::-.:             </tspan>
+<tspan x="30" y="58.21">         .::::.::.            </tspan>
+<tspan x="30" y="63.85">         --      .:.          </tspan>
+<tspan x="30" y="69.49">         :.       ::.         </tspan>
+<tspan x="30" y="75.13">        .:          -.        </tspan>
+<tspan x="30" y="80.77">        :   .....  ..:        </tspan>
+<tspan x="30" y="86.41">       ::  .----+-.: ..       </tspan>
+<tspan x="30" y="92.05">        -. :++-: --:. :       </tspan>
+<tspan x="30" y="97.69">       .: .+:     .-: :.      </tspan>
+<tspan x="30" y="103.33">       -  -:       .- .:      </tspan>
+<tspan x="30" y="108.97">      .. ::         :. :.     </tspan>
+<tspan x="30" y="114.62">      .  -.         .- ..     </tspan>
+<tspan x="30" y="120.26">      -..-           --::     </tspan>
+<tspan x="30" y="125.9">      :.:.           .- -.    </tspan>
+<tspan x="30" y="131.54">      ..:            .: ..    </tspan>
+<tspan x="30" y="137.18">      ..:             - :     </tspan>
+<tspan x="30" y="142.82">      .:.             : .     </tspan>
+<tspan x="30" y="148.46">      ::.             :...    </tspan>
+<tspan x="30" y="154.1">      .:  .--   .++-. ..-.    </tspan>
+<tspan x="30" y="159.74">       - :--+:  --  : .::     </tspan>
+<tspan x="30" y="165.38">       :.:   : .:    ..:.     </tspan>
+<tspan x="30" y="171.03">       -:    ::-.    :::.     </tspan>
+<tspan x="30" y="176.67">       ..  :.. ..:+: .-:      </tspan>
+<tspan x="30" y="182.31">       :. :*-: .:.+:...+      </tspan>
+<tspan x="30" y="187.95">       -...: .  .    . -      </tspan>
+<tspan x="30" y="193.59">       ::    .  :    . :      </tspan>
+<tspan x="30" y="199.23">       .:   ..  .   .  .      </tspan>
+<tspan x="30" y="204.87">       :.:  :    : ..  -:     </tspan>
+<tspan x="30" y="210.51">      .- .::.     :.   ::     </tspan>
+<tspan x="30" y="216.15">      .:     :..:     ...     </tspan>
+<tspan x="30" y="221.79">      .:     .        ..:     </tspan>
+<tspan x="30" y="227.44">      .:     .::.     ...     </tspan>
+<tspan x="30" y="233.08">      .:.   :++++-    ...     </tspan>
+<tspan x="30" y="238.72">       :.  :+:  .-+   ...     </tspan>
+<tspan x="30" y="244.36">       -.  - :--: -.  :-      </tspan>
+<tspan x="30" y="250.0">       :: .:-:  .+.:  :       </tspan>
+<tspan x="30" y="255.64">        :  ..::::.   .:       </tspan>
+<tspan x="30" y="261.28">        :.           :.       </tspan>
+<tspan x="30" y="266.92">        .:    --     -        </tspan>
+<tspan x="30" y="272.56">         -.   ::    ::        </tspan>
+<tspan x="30" y="278.21">         :-        .-.        </tspan>
+<tspan x="30" y="283.85">          +-      :+:.        </tspan>
+<tspan x="30" y="289.49">         .:+:    .+: .        </tspan>
+<tspan x="30" y="295.13">         - .+:..:+:  :        </tspan>
+<tspan x="30" y="300.77">         -. .++++-   -        </tspan>
+<tspan x="30" y="306.41">        .:.  .:-.    :.       </tspan>
+<tspan x="30" y="312.05">        ...          ..       </tspan>
+<tspan x="30" y="317.69">       .. .          ...      </tspan>
+<tspan x="30" y="323.33">      :.. :          ....     </tspan>
+<tspan x="30" y="328.97">    .: .. .         . ...:    </tspan>
+<tspan x="30" y="334.62">   ::  .. ..        .  . .:   </tspan>
+<tspan x="30" y="340.26">  :.   ..  .        .  :  .-. </tspan>
+<tspan x="30" y="345.9"> :.    : ..:        .  :    - </tspan>
+<tspan x="30" y="351.54">..     ..-:..      ..  ..   ..</tspan>
+<tspan x="30" y="357.18">       :- :::      . :::      </tspan>
+<tspan x="30" y="362.82">       -.  -:.    .. ..-.     </tspan>
+<tspan x="30" y="368.46">           .-:    : :         </tspan>
+<tspan x="30" y="374.1">            .-   .::.         </tspan>
+<tspan x="30" y="379.74">             :.  :..          </tspan>
+<tspan x="30" y="385.38">              : .:            </tspan>
+<tspan x="30" y="391.03">              . .             </tspan>
+<tspan x="30" y="396.67">              .:.             </tspan>
+<tspan x="30" y="402.31">               :.             </tspan>
+<tspan x="30" y="407.95">               :              </tspan>
+<tspan x="30" y="413.59">               .              </tspan>
+<tspan x="30" y="419.23">              ..              </tspan>
+<tspan x="30" y="424.87">              ..              </tspan>
+<tspan x="30" y="430.51">              .:              </tspan>
+<tspan x="30" y="436.15">              ...             </tspan>
+<tspan x="30" y="441.79">              .               </tspan>
+<tspan x="30" y="447.44">              :               </tspan>
+<tspan x="30" y="453.08">              .               </tspan>
+<tspan x="30" y="458.72">                              </tspan>
+<tspan x="30" y="464.36">                              </tspan>
+<tspan x="30" y="470.0">                              </tspan>
 </text>
-<text x="390" y="30" fill="#24292f">
-</text>
-<text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">geetansh@agrawal</tspan> -————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Senior Software Engineer</tspan>
-
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">3.5+ Years</tspan>
-
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Builder's Workspace</tspan>
-
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Scalable Architecture</tspan>
-
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Google Antigravity, Cursor</tspan>
-
-<tspan x="390" y="150" class="cc">. </tspan>
-
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Java, TypeScript, JavaScript</tspan>
-
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Spring Boot, React, Next.js, Node.js</tspan>
-
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Cloud</tspan>.<tspan class="key">Infrastructure</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">AWS, Docker, Kafka, Redis</tspan>
-
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">MongoDB, MySQL, Redis, DynamoDB</tspan>
-
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Building</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">AI Agent Orchestration Platform</tspan>
-
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Architecture.io, ByteBox</tspan>
-
-<tspan x="390" y="310">- Contact </tspan>───────────────────────────────────────────────────
-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">geetansh810.github.io/portfolio</tspan>
-
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">geetansh810@gmail.com</tspan>
-
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">github.com/geetansh810</tspan>
-
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">linkedin.com/in/geetansh810</tspan>
-
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">LeetCode</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">leetcode.com/u/geetansh810</tspan>
-
-<tspan x="390" y="450">- Philosophy </tspan>────────────────────────────────────────────────
-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Design</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Think in Systems</tspan>
-
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Goal</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Build software that scales</tspan>
-
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Always building something new</tspan></text>
+  <text x="390" y="30" fill="#24292f">
+    <tspan x="390" y="30">geetansh@agrawal</tspan> ────────────────────────────────────────────
+    <tspan x="390" y="60"><tspan class="key">OS</tspan>: <tspan class="cc">................................</tspan> <tspan class="value">Senior Software Engineer</tspan></tspan>
+    <tspan x="390" y="80"><tspan class="key">Experience</tspan>: <tspan class="cc">......................................</tspan> <tspan class="value">3.5+ Years</tspan></tspan>
+    <tspan x="390" y="100"><tspan class="key">Host</tspan>: <tspan class="cc">...................................</tspan> <tspan class="value">Builder's Workspace</tspan></tspan>
+    <tspan x="390" y="120"><tspan class="key">Kernel</tspan>: <tspan class="cc">...............................</tspan> <tspan class="value">Scalable Architecture</tspan></tspan>
+    <tspan x="390" y="140"><tspan class="key">Editor</tspan>: <tspan class="cc">..........................</tspan> <tspan class="value">Google Antigravity, Cursor</tspan></tspan>
+    <tspan x="390" y="160"><tspan class="key">Languages</tspan>: <tspan class="cc">.....................</tspan> <tspan class="value">Java, TypeScript, JavaScript</tspan></tspan>
+    <tspan x="390" y="180"><tspan class="key">Frameworks</tspan>: <tspan class="cc">............</tspan> <tspan class="value">Spring Boot, React, Next.js, Node.js</tspan></tspan>
+    <tspan x="390" y="200"><tspan class="key">Infrastructure</tspan>: <tspan class="cc">...................</tspan> <tspan class="value">AWS, Docker, Kafka, Redis</tspan></tspan>
+    <tspan x="390" y="220"><tspan class="key">Databases</tspan>: <tspan class="cc">..................</tspan> <tspan class="value">MongoDB, MySQL, Redis, DynamoDB</tspan></tspan>
+    <tspan x="390" y="240"><tspan class="key">Building</tspan>: <tspan class="cc">...................</tspan> <tspan class="value">AI Agent Orchestration Platform</tspan></tspan>
+    <tspan x="390" y="260"><tspan class="key">Projects</tspan>: <tspan class="cc">..........................</tspan> <tspan class="value">Architecture.io, ByteBox</tspan></tspan>
+    <tspan x="390" y="300">Contact</tspan> ─────────────────────────────────────────────────────
+    <tspan x="390" y="320"><tspan class="key">Portfolio</tspan>: <tspan class="cc">..................</tspan> <tspan class="value">geetansh810.github.io/portfolio</tspan></tspan>
+    <tspan x="390" y="340"><tspan class="key">Email</tspan>: <tspan class="cc">................................</tspan> <tspan class="value">geetansh810@gmail.com</tspan></tspan>
+    <tspan x="390" y="360"><tspan class="key">GitHub</tspan>: <tspan class="cc">..............................</tspan> <tspan class="value">github.com/geetansh810</tspan></tspan>
+    <tspan x="390" y="380"><tspan class="key">LinkedIn</tspan>: <tspan class="cc">.......................</tspan> <tspan class="value">linkedin.com/in/geetansh810</tspan></tspan>
+    <tspan x="390" y="400"><tspan class="key">LeetCode</tspan>: <tspan class="cc">........................</tspan> <tspan class="value">leetcode.com/u/geetansh810</tspan></tspan>
+    <tspan x="390" y="430">Philosophy</tspan> ──────────────────────────────────────────────────
+    <tspan x="390" y="450"><tspan class="key">Design</tspan>: <tspan class="cc">....................................</tspan> <tspan class="value">Think in Systems</tspan></tspan>
+    <tspan x="390" y="470"><tspan class="key">Goal</tspan>: <tspan class="cc">............................</tspan> <tspan class="value">Build software that scales</tspan></tspan>
+    <tspan x="390" y="490"><tspan class="key">Status</tspan>: <tspan class="cc">.......................</tspan> <tspan class="value">Always building something new</tspan></tspan>
+  </text>
 </svg>
